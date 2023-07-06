@@ -4,7 +4,7 @@ import subprocess
 directory = r'D:\\.tools\\UmiOCR\\extra'
 
 # 需要执行的命令
-command = 'umiocr.exe -screenshot'
+command = 'umiocr.exe -language=3'
 
 # 构建完整的命令字符串
 full_command = f'cd /d "{directory}" && {command}'
