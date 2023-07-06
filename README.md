@@ -11,3 +11,6 @@
 未来目标
 1.加入翻译
 2.TTS
+
+
+##### 基于[hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
